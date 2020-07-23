@@ -1,0 +1,5 @@
+flutter doctor
+flutter run
+flutter create nome_projeto
+ctrl + ponto = atalho
+colocar underline na frete da variavel torna a mesma privada.
