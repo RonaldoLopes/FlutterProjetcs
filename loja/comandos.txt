@@ -1,0 +1,22 @@
+flutter doctor
+flutter run
+flutter create nome_projeto
+ctrl + ponto = atalho
+colocar underline na frete da variavel torna a mesma privada.
+
+instalar pacote externo
+	-> no arquivo pubsped.yaml em dependencies, cuidado com o espaçamento intl: 0.16.1
+Font
+	->criar um diretorio fora da lib chamado assets
+	->entrar em pubspec
+	->descomentar a parte de fonts (ctrl+/)
+
+É preciso registrar a imagem no pubspec
+instalar dependecia no pubs para usar o observable
+
+instalar data no pubspec
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^4.0.5
+  intl: ^0.16.1
